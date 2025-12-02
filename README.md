@@ -49,3 +49,7 @@ Region-wise JSON category mapping
 
 Dataset link:
 https://www.kaggle.com/datasets/datasnaek/youtube-new
+
+![architecture (1)](https://github.com/user-attachments/assets/89ceff86-2d84-4531-8377-0483e9707a5c)
+
+
