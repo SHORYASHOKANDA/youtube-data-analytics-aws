@@ -1,3 +1,6 @@
+<img width="1216" height="749" alt="image" src="https://github.com/user-attachments/assets/ceb15042-5623-4624-a228-fc8c2060d83f" />
+
+
 📊 YouTube Data Engineering Project:
 
 🚀 Overview
